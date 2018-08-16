@@ -7,11 +7,13 @@ Classes and Objects. Constructors, Overloading Constructors, Return statement
 
 
 No. 	Hands-on Assignment 	Topics Covered 	Status
+
 1 	
 
  Create a class Box that uses a parameterized method to initialize the dimensions of a box.(dimensions are width, height, depth of double type). The class should have a method that can return volume. Obtain an object and print the corresponding volume in main() function.
 
 	Classes and Objects, Constructor 	
+
 2 	
 
  Create a new class called “Calculator” which contains the following: 
@@ -21,6 +23,7 @@ No. 	Hands-on Assignment 	Topics Covered 	Status
 Hint: Use Math.pow(double,double) to calculate the power.
 
 	Classes and Objects, Constructor, static 	
+
 3 	
 
  Design a class that can be used by a health care professional to keep track of a patient’s vital statistics. Here’s what the class should do: 
